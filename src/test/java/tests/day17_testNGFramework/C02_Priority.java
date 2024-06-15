@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class Priority {
+public class C02_Priority {
     //3 farkli test moetodu olusturun
     //ve her bir method'da asagida verilen websayfalarindan birine gidip
     //o  sayfaya gidildigini test edin
