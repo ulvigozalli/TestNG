@@ -15,4 +15,5 @@ public class TestotomasyonuPage {
 
     @FindBy(className = "product-count-text")
     public WebElement aramasonucElementi;
+
 }
